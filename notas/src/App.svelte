@@ -16,7 +16,7 @@
 <main>
   <Header />
   <div>{count} notes</div>
-  <Dashboard />
+  <Dashboard notes={notes} />
 </main>
 
 <style>

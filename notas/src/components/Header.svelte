@@ -5,7 +5,7 @@
 </script>
 
 <div class="Header">
-    <Logo/>
+    <Logo appName='Notes'/>
 
     <Search/>
 
