@@ -8,6 +8,12 @@
       color: "yellow",
       text: "Hello!",
     },
+    {
+      id: 1,
+      title: "Vacations",
+      color: "red",
+      text: "Hello!",
+    },
   ];
   let copyNotes = [...notes];
   let count = notes.length;
